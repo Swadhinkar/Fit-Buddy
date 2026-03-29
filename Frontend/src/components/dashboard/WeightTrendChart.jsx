@@ -69,7 +69,7 @@ export default function WeightTrendChart({ data = [] }) {
       <div className="mt-6 h-72 w-full rounded-3xl bg-[rgb(var(--card-depth-1))/0.3] px-3 py-4">
         <ResponsiveContainer width="100%" height="100%">
           <LineChart data={data} margin={{ top: 16, right: 12, left: 0, bottom: 8 }}>
-            <CartesianGrid stroke="rgb(var(--card-depth-1))" strokeDasharray="4 4" vertical={false} />
+            {/* <CartesianGrid stroke="rgb(var(--card-depth-1))" strokeDasharray="4 4" vertical={false} /> */}
             <XAxis
               dataKey="date"
               tickFormatter={formatDisplayDateTick}
@@ -86,13 +86,26 @@ export default function WeightTrendChart({ data = [] }) {
               domain={["dataMin - 1", "dataMax + 1"]}
             />
             <Tooltip content={renderTooltip} />
+            {/* <Line
+              type="monotone"
+              dataKey="weight"
+              stroke="rgb(var(--primary))"
+              strokeWidth={2}
+              dot={renderDot(data.length - 1)}
+              activeDot={{ r: 5, fill: "rgb(var(--primary))", stroke: "rgb(var(--card-depth-0))", strokeWidth: 2 }}
+            /> */}
             <Line
               type="monotone"
               dataKey="weight"
               stroke="rgb(var(--primary))"
-              strokeWidth={3}
-              dot={{ r: 3, fill: "rgb(var(--primary))", stroke: "rgb(var(--card-depth-0))", strokeWidth: 2 }}
-              activeDot={{ r: 5, fill: "rgb(var(--primary))", stroke: "rgb(var(--card-depth-0))", strokeWidth: 2 }}
+              strokeWidth={2}
+              dot={false}
+              activeDot={{
+                r: 5,
+                fill: "rgb(var(--primary))",
+                stroke: "rgb(var(--card-depth-0))",
+                strokeWidth: 2,
+              }}
             />
           </LineChart>
         </ResponsiveContainer>

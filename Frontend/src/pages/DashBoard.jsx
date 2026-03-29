@@ -29,7 +29,7 @@ import {
 } from "../utils/workoutAnalytics";
 
 const HISTORY_RANGE_DAYS = 180;
-const HEATMAP_DAYS = 90;
+const HEATMAP_DAYS = 365;
 
 const createEmptyExercise = () => ({
   name: "",

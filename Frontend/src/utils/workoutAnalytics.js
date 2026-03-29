@@ -254,6 +254,26 @@ const getRiskLevel = (riskScore) => {
   return "Critical";
 };
 
+const estimateDailyRiskScore = (log = {}) => {
+  if (!log || !log.hasWorkout) {
+    return 0;
+  }
+
+  if (Number.isFinite(log?.riskScore)) {
+    return Math.min(100, Math.max(0, Number(log.riskScore)));
+  }
+
+  const volume = Number(log.volume) || 0;
+  const exerciseTime = Number(log.exerciseTime) || 0;
+  const exerciseCount = Array.isArray(log.exercises) ? log.exercises.length : 0;
+
+  const volumeScore = Math.min(50, Math.round((volume / 6000) * 50));
+  const timeScore = Math.min(30, Math.round((exerciseTime / 120) * 30));
+  const countScore = Math.min(20, exerciseCount * 3);
+
+  return Math.min(100, Math.max(0, volumeScore + timeScore + countScore));
+};
+
 const formatReasonList = (items = []) => {
   if (items.length <= 1) {
     return items[0] ?? "";
@@ -466,10 +486,11 @@ export const buildWeightSeries = (logs = []) =>
     return series;
   }, []);
 
-export const buildHeatmapData = (logs = [], totalDays = 90) => {
+export const buildHeatmapData = (logs = [], totalDays = 365) => {
+  const days = Math.max(totalDays, 365);
   const today = parseDateKey(new Date());
   const startDate = new Date(today);
-  startDate.setDate(today.getDate() - (totalDays - 1));
+  startDate.setDate(today.getDate() - (days - 1));
 
   const normalizedLogs = logs
     .map(buildWorkoutEntry)
@@ -482,7 +503,7 @@ export const buildHeatmapData = (logs = [], totalDays = 90) => {
   const intensityValues = [];
   const activeDates = new Set();
 
-  for (let offset = 0; offset < totalDays; offset += 1) {
+  for (let offset = 0; offset < days; offset += 1) {
     const date = new Date(startDate);
     date.setDate(startDate.getDate() + offset);
 
@@ -522,6 +543,7 @@ export const buildHeatmapData = (logs = [], totalDays = 90) => {
         intensity,
         intensityValue,
         isActive: Boolean(log?.hasWorkout),
+        riskScore: log && Number.isFinite(log.riskScore) ? Number(log.riskScore) : estimateDailyRiskScore(log),
         log,
       });
     }

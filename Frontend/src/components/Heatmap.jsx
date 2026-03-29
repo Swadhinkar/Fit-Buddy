@@ -13,6 +13,26 @@ const INTENSITY_CLASS_NAMES = [
 
 const LEGEND_LABELS = ["Rest", "Light", "Building", "Strong", "Peak"];
 
+const getRiskBorderClass = (riskScore) => {
+  if (!Number.isFinite(riskScore)) {
+    return "border border-[rgb(var(--card-depth-2))]";
+  }
+
+  if (riskScore >= 80) {
+    return "border-2 border-red-400 shadow-[0_0_8px_rgba(220,38,38,0.32)]";
+  }
+
+  if (riskScore >= 60) {
+    return "border-2 border-amber-400 shadow-[0_0_8px_rgba(234,179,8,0.24)]";
+  }
+
+  if (riskScore >= 30) {
+    return "border-2 border-emerald-500 shadow-[0_0_8px_rgba(34,197,94,0.22)]";
+  }
+
+  return "border border-[rgb(var(--card-depth-2))]";
+};
+
 export default function Heatmap({ data, isLoading = false, error = "" }) {
   const columns = data?.columns ?? 0;
   const cells = data?.cells ?? [];
@@ -95,7 +115,7 @@ export default function Heatmap({ data, isLoading = false, error = "" }) {
                   title={buildTooltipLabel(cell)}
                   className={`rounded-[4px] transition-transform duration-150 hover:scale-110 ${
                     INTENSITY_CLASS_NAMES[cell.intensity]
-                  } ${cell.date ? "cursor-pointer" : "opacity-0"}`}
+                  } ${getRiskBorderClass(cell.riskScore)} ${cell.date ? "cursor-pointer" : "opacity-0"}`}
                   aria-label={buildTooltipLabel(cell)}
                 />
               ))}
@@ -112,13 +132,13 @@ function buildTooltipLabel(cell) {
     return "Outside current range";
   }
 
-  if (!cell.isActive) {
-    return `${formatDisplayDate(cell.date)}: no workout logged`;
-  }
+  const activityText = cell.isActive
+    ? cell.log?.volume > 0
+      ? `${cell.log.volume.toLocaleString()} total load`
+      : `${cell.log?.exerciseTime ?? 0} minutes logged`
+    : "no workout logged";
 
-  if (cell.log?.volume > 0) {
-    return `${formatDisplayDate(cell.date)}: ${cell.log.volume.toLocaleString()} total load`;
-  }
+  const riskText = Number.isFinite(cell.riskScore) ? `Risk Score: ${cell.riskScore}` : "Risk Score: 0";
 
-  return `${formatDisplayDate(cell.date)}: ${cell.log?.exerciseTime ?? 0} minutes logged`;
+  return `${formatDisplayDate(cell.date)} | Activity: ${activityText} | ${riskText}`;
 }
