@@ -48,7 +48,7 @@ export default function Heatmap({ data, isLoading = false, error = "" }) {
   }
 
   return (
-    <div className="rounded-[2rem] border border-[rgb(var(--card-depth-1))] bg-[rgb(var(--card-depth-0))] p-6 shadow-sm">
+    <div className="rounded-[2rem] border border-[rgb(var(--card-depth-1))] bg-[rgb(var(--card-depth-0))] p-6 shadow-sm max-w-full overflow-x-hidden">
       <div className="flex flex-wrap items-start justify-between gap-4">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.24em] text-[rgb(var(--secondary))]">
@@ -86,8 +86,8 @@ export default function Heatmap({ data, isLoading = false, error = "" }) {
         </div>
       </div>
 
-      <div className="mt-6 overflow-x-auto pb-2">
-        <div className="min-w-max">
+      <div className="mt-6 w-full max-w-full overflow-x-auto pb-2">
+        <div className="min-w-max max-w-full">
           <div
             className="mb-3 grid items-center gap-x-1 pl-12 text-[10px] font-semibold uppercase tracking-[0.18em] text-[rgb(var(--text-muted))]"
             style={{ gridTemplateColumns: `repeat(${columns}, var(--heatmap-cell-size))` }}

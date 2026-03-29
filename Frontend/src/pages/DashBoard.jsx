@@ -331,7 +331,7 @@ export default function PersonalDashboard() {
 
   return (
     <>
-      <div className="min-h-screen bg-[rgb(var(--body-color))] px-4 pb-12 pt-24 text-[rgb(var(--text-primary))] transition-colors duration-300 md:px-10">
+      <div className="min-h-screen w-full max-w-full overflow-x-hidden bg-[rgb(var(--body-color))] px-4 pb-12 pt-24 text-[rgb(var(--text-primary))] transition-colors duration-300 md:px-10">
         <header className="mb-8 flex flex-col justify-between gap-4 md:flex-row md:items-end">
           <div>
             <h1 className="text-3xl font-bold tracking-tight">Fitness Command Center</h1>
@@ -359,7 +359,7 @@ export default function PersonalDashboard() {
           </div>
         ) : null}
 
-        <section className="grid grid-cols-2 gap-4 lg:grid-cols-4">
+        <section className="grid grid-cols-1 sm:grid-cols-2 gap-4 lg:grid-cols-4 max-w-full">
           <StatCard
             title="Calories Consumed"
             value={hasLog ? todayLog.caloriesConsumed : isDashboardLoading ? "..." : "--"}
@@ -396,7 +396,7 @@ export default function PersonalDashboard() {
           />
         </section>
 
-        <div className="mt-8 grid gap-8 lg:grid-cols-12">
+        <div className="mt-8 grid grid-cols-1 gap-8 lg:grid-cols-12">
           <div className="space-y-6 lg:col-span-4">
             <div className="group relative overflow-hidden rounded-[2rem] bg-gradient-to-br from-[rgb(var(--primary))] via-[rgb(var(--primary-hover))] to-[rgb(var(--secondary-hover))] p-8 text-white shadow-2xl transition-transform hover:scale-[1.01]">
               <div className="absolute -right-10 -top-10 h-40 w-40 rounded-full bg-white/10 blur-3xl transition-all group-hover:bg-white/20" />
@@ -485,7 +485,7 @@ export default function PersonalDashboard() {
               <WeightTrendChart data={weightSeries} />
             </div>
 
-            <div className="grid gap-6 md:grid-cols-2">
+            <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
               <Card>
                 <h3 className="mb-4 flex items-center gap-2 text-lg font-bold">
                   <Dumbbell size={20} className="text-[rgb(var(--primary))]" /> Today&apos;s Exercises
