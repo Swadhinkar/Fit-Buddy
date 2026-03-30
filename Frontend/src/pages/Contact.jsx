@@ -18,7 +18,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="min-h-screen bg-[rgb(var(--body-color))] text-[rgb(var(--text-primary))] pt-32 pb-20 px-6 overflow-hidden">
+    <div className="min-h-screen bg-[rgb(var(--body-color))] text-[rgb(var(--text-primary))] pt-32 pb-20 px-4 sm:px-6 overflow-hidden" style={{ width: '100%', maxWidth: '100%', overflowX: 'hidden' }}>
       
       {/* --- COSMIC BACKGROUND --- */}
       <div className="absolute inset-0 pointer-events-none">
@@ -94,11 +94,11 @@ const Contact = () => {
               <div className="grid md:grid-cols-2 gap-8">
                 <div className="space-y-3">
                   <label className="text-xs font-black uppercase text-[rgb(var(--text-dim))] ml-2">Full Name</label>
-                  <input type="text" placeholder="Swadhin Kar" className="w-full bg-[rgb(var(--card-depth-1))] border-none rounded-2xl p-5 focus:ring-2 focus:ring-[rgb(var(--primary))] transition-all outline-none text-[rgb(var(--text-primary))]" />
+                  <input type="text" placeholder="Swadhin Kumar Kar" className="w-full bg-[rgb(var(--card-depth-1))] border-none rounded-2xl p-5 focus:ring-2 focus:ring-[rgb(var(--primary))] transition-all outline-none text-[rgb(var(--text-primary))]" />
                 </div>
                 <div className="space-y-3">
                   <label className="text-xs font-black uppercase text-[rgb(var(--text-dim))] ml-2">Email Address</label>
-                  <input type="email" placeholder="swadhin@fitbuddy.ai" className="w-full bg-[rgb(var(--card-depth-1))] border-none rounded-2xl p-5 focus:ring-2 focus:ring-[rgb(var(--primary))] transition-all outline-none text-[rgb(var(--text-primary))]" />
+                  <input type="email" placeholder="swadhinkumarkar@fitbuddy.ai" className="w-full bg-[rgb(var(--card-depth-1))] border-none rounded-2xl p-5 focus:ring-2 focus:ring-[rgb(var(--primary))] transition-all outline-none text-[rgb(var(--text-primary))]" />
                 </div>
               </div>
 

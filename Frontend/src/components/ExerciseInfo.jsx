@@ -62,7 +62,7 @@ const ExerciseInfo = ({ ex, onClose }) => {
 
             {/* Tags */}
             <div className="flex flex-wrap gap-2">
-              {ex.TrainingGoals.map(goal => (
+              {Array.isArray(ex.TrainingGoals) && ex.TrainingGoals.map(goal => (
                 <span
                   key={goal}
                   className="px-2 py-1 text-xs rounded-md bg-[rgb(var(--card-depth-2))]"
@@ -70,7 +70,7 @@ const ExerciseInfo = ({ ex, onClose }) => {
                   {goal}
                 </span>
               ))}
-              {ex.TrainingMethod.map(method => (
+              {Array.isArray(ex.TrainingMethod) && ex.TrainingMethod.map(method => (
                 <span
                   key={method}
                   className="px-2 py-1 text-xs rounded-md border border-[rgb(var(--text-muted))] text-[rgb(var(--text-muted))]"
@@ -84,7 +84,7 @@ const ExerciseInfo = ({ ex, onClose }) => {
             <div>
               <h4 className="font-semibold mb-1">Targeted Muscles</h4>
               <ul className="list-disc list-inside text-sm text-[rgb(var(--text-muted))]">
-                {ex.targetedMuscles.map(m => (
+                {Array.isArray(ex.targetedMuscles) && ex.targetedMuscles.map(m => (
                   <li key={m}>{m}</li>
                 ))}
               </ul>
@@ -94,7 +94,7 @@ const ExerciseInfo = ({ ex, onClose }) => {
             <div>
               <h4 className="font-semibold mb-1">How to Perform</h4>
               <ol className="list-decimal list-inside text-sm space-y-1 text-[rgb(var(--text-muted))]">
-                {ex.procedure.map((step, i) => (
+                {Array.isArray(ex.procedure) && ex.procedure.map((step, i) => (
                   <li key={i}>{step}</li>
                 ))}
               </ol>
@@ -106,7 +106,7 @@ const ExerciseInfo = ({ ex, onClose }) => {
                 Common Mistakes
               </h4>
               <ul className="list-disc list-inside text-sm text-[rgb(var(--text-muted))]">
-                {ex.commonMistakes.map(m => (
+                {Array.isArray(ex.commonMistakes) && ex.commonMistakes.map(m => (
                   <li key={m}>{m}</li>
                 ))}
               </ul>
@@ -117,9 +117,9 @@ const ExerciseInfo = ({ ex, onClose }) => {
               <span>🔥 {ex.estimatedCaloriesBurnedPerMinute} cal / min</span>
               <span>
                 🏋️ Equipment:{" "}
-                {ex.equipmentRequired.length === 0
+                {Array.isArray(ex.equipmentRequired) && ex.equipmentRequired.length === 0
                   ? "None"
-                  : ex.equipmentRequired.join(", ")}
+                  : Array.isArray(ex.equipmentRequired) ? ex.equipmentRequired.join(", ") : "None"}
               </span>
             </div>
           </div>

@@ -17,8 +17,10 @@ const Navbar = () => {
   const { user, setUser } = useContext(AuthContext);
 
   const [isLoggingOut, setIsLoggingOut] = useState(false);
+  const [isToolsOpen, setIsToolsOpen] = useState(false);
 
   const logoutme = async () => {
+    if (!window.confirm("Are you sure you want to logout?")) return;
     setIsLoggingOut(true);
     try {
       await api.post('/user/logout');
@@ -73,16 +75,16 @@ const Navbar = () => {
           <li><button onClick={() => navigate('/')} >Home</button></li>
           <li><button onClick={() => navigate('/exercises')} >Exercises</button></li>
           {/* <li><a href='/exercises'>Exercises</a></li> */}
-          <li>
-            <details>
-              <summary>Tools</summary>
-              <ul className="p-2 bg-[rgb(var(--navbar))] w-40 z-1 ">
+          <li className="relative" onMouseEnter={() => setIsToolsOpen(true)} onMouseLeave={() => setIsToolsOpen(false)}>
+            <button>Tools</button>
+            {isToolsOpen && (
+              <ul className="absolute top-full left-0 p-2 bg-[rgb(var(--navbar))] w-40 z-1 transition-opacity duration-200">
                 <li><button onClick={() => navigate('/calorie-calculator')}>Calorie calculator</button></li>
                 <li><button onClick={() => navigate('/bmi-calculator')}>BMI calculator</button></li>
                 <li><button onClick={() => navigate('/exercise-selector')}>Exercise Selector</button></li>
                 <li><button onClick={() => navigate('/daily-tracker')}>Daily Tracker</button></li>
               </ul>
-            </details>
+            )}
           </li>
           <li><button onClick={() => navigate('/contact-us')}>Contact Us</button></li>
         </ul>

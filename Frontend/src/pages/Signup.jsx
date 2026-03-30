@@ -164,7 +164,7 @@ const Signup = () => {
             Already have an account?{" "}
             <a
               href="/user/login"
-              className="font-semibold text-[rgb(var(--primary))] hover:underline"
+              className="font-semibold text-[rgb(var(--primary))] hover:underline cursor-pointer"
             >
               Sign In
             </a>

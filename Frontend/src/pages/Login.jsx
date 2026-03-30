@@ -120,7 +120,7 @@ const Login = () => {
             Don’t have an account?{" "}
             <a
               href="/user/signup"
-              className="font-semibold text-[rgb(var(--primary))] hover:underline"
+              className="font-semibold text-[rgb(var(--primary))] hover:underline cursor-pointer"
             >
               Create one
             </a>

@@ -14,7 +14,7 @@ const Founder = () => {
                         "FitBuddy started as a personal project to solve my own consistency issues. Today, it’s a platform built for every student,
                         professional, and dreamer who wants to master their health through logic and discipline."
                     </p>
-                    <p className="font-black text-2xl tracking-tight">Swadhin</p>
+                    <p className="font-black text-2xl tracking-tight">Swadhin Kumar Kar</p>
                     <p className="text-[rgb(var(--text-muted))] font-medium">Lead Developer & Fitness Enthusiast</p>
                 </div>
             </div>

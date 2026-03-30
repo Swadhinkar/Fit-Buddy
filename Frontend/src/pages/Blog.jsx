@@ -26,7 +26,7 @@ export default function Blog() {
         ? ex.TrainingGoals.includes(selectedGoal)
         : true;
       const matchesMethod = selectedMethod
-        ? ex.TrainingMethod.includes(selectedMethod)
+        ? (Array.isArray(ex.TrainingMethod) && ex.TrainingMethod.includes(selectedMethod))
         : true;
 
       if (matchesSearch && matchesGoal && matchesMethod && size < 18) {

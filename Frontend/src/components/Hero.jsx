@@ -37,7 +37,7 @@ const Hero = () => {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-[rgb(var(--primary))] opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-[rgb(var(--primary))]"></span>
                 </span>
-                LIVE: AI COACHING 2.0
+                LIVE: AI COACHING 3.0
               </span>
               
               <h1 className="text-4xl md:text-6xl lg:text-8xl text-[rgb(var(--text-primary))] font-black tracking-tighter leading-tight mb-6">
@@ -99,7 +99,7 @@ const Hero = () => {
                 className="absolute -left-4 md:-left-12 bottom-12 md:bottom-20 bg-[rgb(var(--primary))] p-3 md:p-5 rounded-2xl md:rounded-3xl shadow-2xl text-white"
               >
                 <p className="text-[10px] md:text-xs opacity-80 mb-1">Progress</p>
-                <p className="text-xl md:text-2xl font-black">84%</p>
+                <p className="text-xl md:text-2xl font-black user-select-none pointer-events-none">84%</p>
               </motion.div>
             </div>
 
