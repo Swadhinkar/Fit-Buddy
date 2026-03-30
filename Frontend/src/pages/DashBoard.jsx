@@ -174,7 +174,7 @@ export default function PersonalDashboard() {
       try {
         const [todayResult, historyResult] = await Promise.allSettled([
           getTodayLog(),
-          getLogHistory(HISTORY_RANGE_DAYS),
+          getLogHistory(365),
         ]);
 
         if (todayResult.status === "fulfilled") {
