@@ -5,7 +5,7 @@ export const getTodayLog = async () => {
   return response.data;
 };
 
-export const getLogHistory = async (days = 90) => {
+export const getLogHistory = async (days = 365) => {
   const response = await api.get(`/log/history?days=${days}`);
   return response.data;
 };

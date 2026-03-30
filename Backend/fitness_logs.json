@@ -1,0 +1,6279 @@
+[
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-01",
+    "caloriesConsumed": 2002,
+    "exerciseTime": 43,
+    "didExercise": true,
+    "weight": 65,
+    "riskScore": 49,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-02",
+    "caloriesConsumed": 2672,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-03",
+    "caloriesConsumed": 2375,
+    "exerciseTime": 29,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-04",
+    "caloriesConsumed": 2587,
+    "exerciseTime": 32,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-05",
+    "caloriesConsumed": 2236,
+    "exerciseTime": 40,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-06",
+    "caloriesConsumed": 2033,
+    "exerciseTime": 42,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-07",
+    "caloriesConsumed": 2205,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-08",
+    "caloriesConsumed": 2413,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 65.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-09",
+    "caloriesConsumed": 2788,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.2,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-10",
+    "caloriesConsumed": 2282,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-11",
+    "caloriesConsumed": 2558,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-12",
+    "caloriesConsumed": 2422,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-13",
+    "caloriesConsumed": 2405,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-14",
+    "caloriesConsumed": 2279,
+    "exerciseTime": 41,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-15",
+    "caloriesConsumed": 2021,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 65.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-16",
+    "caloriesConsumed": 2963,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.3,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-17",
+    "caloriesConsumed": 2379,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 65.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-18",
+    "caloriesConsumed": 2523,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 65.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-19",
+    "caloriesConsumed": 2519,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 65.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-20",
+    "caloriesConsumed": 2201,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 65.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-21",
+    "caloriesConsumed": 3060,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.4,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-22",
+    "caloriesConsumed": 2065,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 47,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-23",
+    "caloriesConsumed": 2810,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.4,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-24",
+    "caloriesConsumed": 2485,
+    "exerciseTime": 32,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-25",
+    "caloriesConsumed": 2244,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-26",
+    "caloriesConsumed": 2526,
+    "exerciseTime": 21,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-27",
+    "caloriesConsumed": 2075,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-28",
+    "caloriesConsumed": 2069,
+    "exerciseTime": 55,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-29",
+    "caloriesConsumed": 2160,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 65.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-30",
+    "caloriesConsumed": 3099,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.5,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-01-31",
+    "caloriesConsumed": 2516,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 65.5,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-01",
+    "caloriesConsumed": 2848,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.5,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-02",
+    "caloriesConsumed": 2932,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.6,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-03",
+    "caloriesConsumed": 2503,
+    "exerciseTime": 29,
+    "didExercise": true,
+    "weight": 65.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-04",
+    "caloriesConsumed": 2550,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 65.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-05",
+    "caloriesConsumed": 2908,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-06",
+    "caloriesConsumed": 2413,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-07",
+    "caloriesConsumed": 2171,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-08",
+    "caloriesConsumed": 2105,
+    "exerciseTime": 42,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 47,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-09",
+    "caloriesConsumed": 3149,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-10",
+    "caloriesConsumed": 2304,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-11",
+    "caloriesConsumed": 2430,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-12",
+    "caloriesConsumed": 2218,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-13",
+    "caloriesConsumed": 2836,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-14",
+    "caloriesConsumed": 2567,
+    "exerciseTime": 57,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-15",
+    "caloriesConsumed": 2618,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-16",
+    "caloriesConsumed": 2437,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-17",
+    "caloriesConsumed": 2490,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-18",
+    "caloriesConsumed": 2147,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-19",
+    "caloriesConsumed": 3162,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-20",
+    "caloriesConsumed": 2643,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-21",
+    "caloriesConsumed": 2943,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-22",
+    "caloriesConsumed": 2062,
+    "exerciseTime": 32,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-23",
+    "caloriesConsumed": 2121,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-24",
+    "caloriesConsumed": 2428,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-25",
+    "caloriesConsumed": 2437,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-26",
+    "caloriesConsumed": 2185,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-27",
+    "caloriesConsumed": 2313,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-02-28",
+    "caloriesConsumed": 2819,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-01",
+    "caloriesConsumed": 2282,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-02",
+    "caloriesConsumed": 2549,
+    "exerciseTime": 41,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-03",
+    "caloriesConsumed": 2379,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-04",
+    "caloriesConsumed": 2050,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-05",
+    "caloriesConsumed": 2525,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-06",
+    "caloriesConsumed": 2571,
+    "exerciseTime": 44,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-07",
+    "caloriesConsumed": 2337,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-08",
+    "caloriesConsumed": 2540,
+    "exerciseTime": 45,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-09",
+    "caloriesConsumed": 2326,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 65.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-10",
+    "caloriesConsumed": 2960,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.8,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-11",
+    "caloriesConsumed": 2713,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-12",
+    "caloriesConsumed": 2591,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-13",
+    "caloriesConsumed": 2448,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-14",
+    "caloriesConsumed": 2316,
+    "exerciseTime": 43,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-15",
+    "caloriesConsumed": 2821,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-16",
+    "caloriesConsumed": 2594,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-17",
+    "caloriesConsumed": 2282,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 50,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-18",
+    "caloriesConsumed": 2424,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-19",
+    "caloriesConsumed": 2445,
+    "exerciseTime": 22,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.382Z",
+    "updatedAt": "2026-03-30T11:46:51.382Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-20",
+    "caloriesConsumed": 2922,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-21",
+    "caloriesConsumed": 2360,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-22",
+    "caloriesConsumed": 2548,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-23",
+    "caloriesConsumed": 2084,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-24",
+    "caloriesConsumed": 2793,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.9,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-25",
+    "caloriesConsumed": 2441,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-26",
+    "caloriesConsumed": 2219,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-27",
+    "caloriesConsumed": 2544,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-28",
+    "caloriesConsumed": 2407,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-29",
+    "caloriesConsumed": 2190,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-30",
+    "caloriesConsumed": 2669,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 65.9,
+    "riskScore": 71,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-03-31",
+    "caloriesConsumed": 2044,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-01",
+    "caloriesConsumed": 2596,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 65.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-02",
+    "caloriesConsumed": 2914,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-03",
+    "caloriesConsumed": 2482,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-04",
+    "caloriesConsumed": 2438,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-05",
+    "caloriesConsumed": 2013,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-06",
+    "caloriesConsumed": 2186,
+    "exerciseTime": 53,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-07",
+    "caloriesConsumed": 2472,
+    "exerciseTime": 21,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-08",
+    "caloriesConsumed": 2206,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 50,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-09",
+    "caloriesConsumed": 2368,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-10",
+    "caloriesConsumed": 2428,
+    "exerciseTime": 48,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-11",
+    "caloriesConsumed": 2095,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-12",
+    "caloriesConsumed": 2243,
+    "exerciseTime": 55,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-13",
+    "caloriesConsumed": 2619,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-14",
+    "caloriesConsumed": 3000,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-15",
+    "caloriesConsumed": 2190,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 66,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-16",
+    "caloriesConsumed": 3191,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-17",
+    "caloriesConsumed": 2026,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-18",
+    "caloriesConsumed": 2290,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-19",
+    "caloriesConsumed": 2303,
+    "exerciseTime": 22,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-20",
+    "caloriesConsumed": 2236,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-21",
+    "caloriesConsumed": 2691,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-22",
+    "caloriesConsumed": 2016,
+    "exerciseTime": 49,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-23",
+    "caloriesConsumed": 2076,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-24",
+    "caloriesConsumed": 2286,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 44,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-25",
+    "caloriesConsumed": 2441,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-26",
+    "caloriesConsumed": 2500,
+    "exerciseTime": 21,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-27",
+    "caloriesConsumed": 3070,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-28",
+    "caloriesConsumed": 2233,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-29",
+    "caloriesConsumed": 2697,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-04-30",
+    "caloriesConsumed": 2794,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 71,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-01",
+    "caloriesConsumed": 3046,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-02",
+    "caloriesConsumed": 2522,
+    "exerciseTime": 42,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-03",
+    "caloriesConsumed": 2356,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 41,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-04",
+    "caloriesConsumed": 2784,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 73,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-05",
+    "caloriesConsumed": 2958,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-06",
+    "caloriesConsumed": 2659,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-07",
+    "caloriesConsumed": 2263,
+    "exerciseTime": 47,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-08",
+    "caloriesConsumed": 2285,
+    "exerciseTime": 44,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 44,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-09",
+    "caloriesConsumed": 2932,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-10",
+    "caloriesConsumed": 2360,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-11",
+    "caloriesConsumed": 2217,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-12",
+    "caloriesConsumed": 2555,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 43,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-13",
+    "caloriesConsumed": 2058,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-14",
+    "caloriesConsumed": 2409,
+    "exerciseTime": 48,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-15",
+    "caloriesConsumed": 2594,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-16",
+    "caloriesConsumed": 2117,
+    "exerciseTime": 21,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-17",
+    "caloriesConsumed": 2638,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-18",
+    "caloriesConsumed": 2499,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66.1,
+    "riskScore": 41,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-19",
+    "caloriesConsumed": 2914,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-20",
+    "caloriesConsumed": 3002,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.2,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-21",
+    "caloriesConsumed": 2511,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 66.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-22",
+    "caloriesConsumed": 2500,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 66.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-23",
+    "caloriesConsumed": 3183,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.3,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-24",
+    "caloriesConsumed": 2153,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 66.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-25",
+    "caloriesConsumed": 2378,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-26",
+    "caloriesConsumed": 2652,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.4,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-27",
+    "caloriesConsumed": 2486,
+    "exerciseTime": 22,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-28",
+    "caloriesConsumed": 2478,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 43,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-29",
+    "caloriesConsumed": 2003,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-30",
+    "caloriesConsumed": 2426,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-05-31",
+    "caloriesConsumed": 2400,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-01",
+    "caloriesConsumed": 2053,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 50,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-02",
+    "caloriesConsumed": 2048,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-03",
+    "caloriesConsumed": 2269,
+    "exerciseTime": 44,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-04",
+    "caloriesConsumed": 2352,
+    "exerciseTime": 45,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-05",
+    "caloriesConsumed": 2495,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-06",
+    "caloriesConsumed": 2224,
+    "exerciseTime": 57,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-07",
+    "caloriesConsumed": 2065,
+    "exerciseTime": 53,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-08",
+    "caloriesConsumed": 2113,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-09",
+    "caloriesConsumed": 2608,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.4,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-10",
+    "caloriesConsumed": 2547,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-11",
+    "caloriesConsumed": 2091,
+    "exerciseTime": 57,
+    "didExercise": true,
+    "weight": 66.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-12",
+    "caloriesConsumed": 3125,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.5,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-13",
+    "caloriesConsumed": 2579,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 66.5,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-14",
+    "caloriesConsumed": 2287,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 66.5,
+    "riskScore": 42,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-15",
+    "caloriesConsumed": 2537,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 66.5,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-16",
+    "caloriesConsumed": 2870,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.5,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-17",
+    "caloriesConsumed": 2483,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 66.5,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-18",
+    "caloriesConsumed": 2349,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 66.5,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-19",
+    "caloriesConsumed": 2645,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.5,
+    "riskScore": 76,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-20",
+    "caloriesConsumed": 2890,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.6,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-21",
+    "caloriesConsumed": 2816,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.6,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-22",
+    "caloriesConsumed": 2574,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-23",
+    "caloriesConsumed": 2443,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-24",
+    "caloriesConsumed": 2480,
+    "exerciseTime": 49,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-25",
+    "caloriesConsumed": 2576,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-26",
+    "caloriesConsumed": 2263,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-27",
+    "caloriesConsumed": 2019,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-28",
+    "caloriesConsumed": 2003,
+    "exerciseTime": 29,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-29",
+    "caloriesConsumed": 2516,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-06-30",
+    "caloriesConsumed": 2706,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.6,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-01",
+    "caloriesConsumed": 2213,
+    "exerciseTime": 40,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-02",
+    "caloriesConsumed": 3029,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.6,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-03",
+    "caloriesConsumed": 2098,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 40,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-04",
+    "caloriesConsumed": 2518,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 66.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-05",
+    "caloriesConsumed": 3067,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-06",
+    "caloriesConsumed": 2552,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-07",
+    "caloriesConsumed": 2159,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-08",
+    "caloriesConsumed": 2198,
+    "exerciseTime": 41,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 40,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-09",
+    "caloriesConsumed": 2942,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-10",
+    "caloriesConsumed": 2589,
+    "exerciseTime": 49,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 40,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-11",
+    "caloriesConsumed": 2993,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-12",
+    "caloriesConsumed": 2843,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-13",
+    "caloriesConsumed": 2268,
+    "exerciseTime": 26,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-14",
+    "caloriesConsumed": 2474,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-15",
+    "caloriesConsumed": 3145,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-16",
+    "caloriesConsumed": 2270,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-17",
+    "caloriesConsumed": 3073,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-18",
+    "caloriesConsumed": 2836,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-19",
+    "caloriesConsumed": 2269,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-20",
+    "caloriesConsumed": 2576,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-21",
+    "caloriesConsumed": 2405,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 42,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-22",
+    "caloriesConsumed": 2474,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-23",
+    "caloriesConsumed": 2902,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-24",
+    "caloriesConsumed": 2238,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-25",
+    "caloriesConsumed": 2392,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-26",
+    "caloriesConsumed": 2312,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-27",
+    "caloriesConsumed": 2490,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-28",
+    "caloriesConsumed": 2264,
+    "exerciseTime": 22,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-29",
+    "caloriesConsumed": 2131,
+    "exerciseTime": 48,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-30",
+    "caloriesConsumed": 2187,
+    "exerciseTime": 45,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-07-31",
+    "caloriesConsumed": 2472,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-01",
+    "caloriesConsumed": 2252,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-02",
+    "caloriesConsumed": 2112,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 43,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-03",
+    "caloriesConsumed": 2001,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-04",
+    "caloriesConsumed": 2530,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 66.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-05",
+    "caloriesConsumed": 2893,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.8,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-06",
+    "caloriesConsumed": 2333,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-07",
+    "caloriesConsumed": 2514,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-08",
+    "caloriesConsumed": 2800,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.8,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-09",
+    "caloriesConsumed": 2005,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-10",
+    "caloriesConsumed": 3123,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.8,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-11",
+    "caloriesConsumed": 2438,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 42,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-12",
+    "caloriesConsumed": 2006,
+    "exerciseTime": 26,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-13",
+    "caloriesConsumed": 2095,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-14",
+    "caloriesConsumed": 2285,
+    "exerciseTime": 40,
+    "didExercise": true,
+    "weight": 66.8,
+    "riskScore": 48,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-15",
+    "caloriesConsumed": 2867,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 66.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-16",
+    "caloriesConsumed": 2201,
+    "exerciseTime": 52,
+    "didExercise": true,
+    "weight": 66.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-17",
+    "caloriesConsumed": 2803,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-18",
+    "caloriesConsumed": 2610,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-19",
+    "caloriesConsumed": 2332,
+    "exerciseTime": 47,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-20",
+    "caloriesConsumed": 2855,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-21",
+    "caloriesConsumed": 2206,
+    "exerciseTime": 22,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-22",
+    "caloriesConsumed": 2488,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-23",
+    "caloriesConsumed": 2685,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-24",
+    "caloriesConsumed": 2133,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-25",
+    "caloriesConsumed": 2076,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-26",
+    "caloriesConsumed": 2391,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-27",
+    "caloriesConsumed": 2515,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-28",
+    "caloriesConsumed": 2600,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-29",
+    "caloriesConsumed": 2088,
+    "exerciseTime": 45,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-30",
+    "caloriesConsumed": 2829,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-08-31",
+    "caloriesConsumed": 2185,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-01",
+    "caloriesConsumed": 3069,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-02",
+    "caloriesConsumed": 3073,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.1,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-03",
+    "caloriesConsumed": 2022,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-04",
+    "caloriesConsumed": 2012,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-05",
+    "caloriesConsumed": 2555,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 67.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-06",
+    "caloriesConsumed": 2635,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.2,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-07",
+    "caloriesConsumed": 2204,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-08",
+    "caloriesConsumed": 2092,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-09",
+    "caloriesConsumed": 2020,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 44,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-10",
+    "caloriesConsumed": 2437,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-11",
+    "caloriesConsumed": 2048,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-12",
+    "caloriesConsumed": 2590,
+    "exerciseTime": 41,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-13",
+    "caloriesConsumed": 2240,
+    "exerciseTime": 47,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-14",
+    "caloriesConsumed": 2478,
+    "exerciseTime": 50,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 44,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-15",
+    "caloriesConsumed": 2455,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-16",
+    "caloriesConsumed": 2305,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-17",
+    "caloriesConsumed": 2025,
+    "exerciseTime": 20,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-18",
+    "caloriesConsumed": 2067,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-19",
+    "caloriesConsumed": 2978,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.2,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-20",
+    "caloriesConsumed": 3056,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.2,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-21",
+    "caloriesConsumed": 2451,
+    "exerciseTime": 45,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 45,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-22",
+    "caloriesConsumed": 2268,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 67.2,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-23",
+    "caloriesConsumed": 2832,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.3,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-24",
+    "caloriesConsumed": 2962,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.4,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-25",
+    "caloriesConsumed": 3185,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.4,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-26",
+    "caloriesConsumed": 2358,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-27",
+    "caloriesConsumed": 2029,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-28",
+    "caloriesConsumed": 2525,
+    "exerciseTime": 53,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-29",
+    "caloriesConsumed": 2482,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-09-30",
+    "caloriesConsumed": 2096,
+    "exerciseTime": 47,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-01",
+    "caloriesConsumed": 2265,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-02",
+    "caloriesConsumed": 3055,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.4,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-03",
+    "caloriesConsumed": 2452,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-04",
+    "caloriesConsumed": 2441,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-05",
+    "caloriesConsumed": 2443,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-06",
+    "caloriesConsumed": 2387,
+    "exerciseTime": 53,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-07",
+    "caloriesConsumed": 2309,
+    "exerciseTime": 44,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-08",
+    "caloriesConsumed": 2349,
+    "exerciseTime": 34,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-09",
+    "caloriesConsumed": 2410,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 67.4,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-10",
+    "caloriesConsumed": 2895,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.5,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-11",
+    "caloriesConsumed": 2829,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.6,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-12",
+    "caloriesConsumed": 2259,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 67.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-13",
+    "caloriesConsumed": 2595,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 67.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-14",
+    "caloriesConsumed": 2341,
+    "exerciseTime": 44,
+    "didExercise": true,
+    "weight": 67.6,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-15",
+    "caloriesConsumed": 2994,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.7,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-16",
+    "caloriesConsumed": 2058,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-17",
+    "caloriesConsumed": 2291,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-18",
+    "caloriesConsumed": 3122,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.7,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-19",
+    "caloriesConsumed": 2713,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.7,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-20",
+    "caloriesConsumed": 2634,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.7,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-21",
+    "caloriesConsumed": 2407,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-22",
+    "caloriesConsumed": 2259,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-23",
+    "caloriesConsumed": 2135,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-24",
+    "caloriesConsumed": 2457,
+    "exerciseTime": 48,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-25",
+    "caloriesConsumed": 2130,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 67.7,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-26",
+    "caloriesConsumed": 2717,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.8,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-27",
+    "caloriesConsumed": 2244,
+    "exerciseTime": 40,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-28",
+    "caloriesConsumed": 2340,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-29",
+    "caloriesConsumed": 2481,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-30",
+    "caloriesConsumed": 2546,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-10-31",
+    "caloriesConsumed": 2086,
+    "exerciseTime": 41,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-01",
+    "caloriesConsumed": 2490,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-02",
+    "caloriesConsumed": 2176,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 47,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-03",
+    "caloriesConsumed": 2349,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-04",
+    "caloriesConsumed": 2600,
+    "exerciseTime": 55,
+    "didExercise": true,
+    "weight": 67.8,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-05",
+    "caloriesConsumed": 3077,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-06",
+    "caloriesConsumed": 2504,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-07",
+    "caloriesConsumed": 2331,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-08",
+    "caloriesConsumed": 2313,
+    "exerciseTime": 23,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-09",
+    "caloriesConsumed": 2200,
+    "exerciseTime": 57,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-10",
+    "caloriesConsumed": 2593,
+    "exerciseTime": 47,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-11",
+    "caloriesConsumed": 3014,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 67.9,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-12",
+    "caloriesConsumed": 2509,
+    "exerciseTime": 43,
+    "didExercise": true,
+    "weight": 67.9,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-13",
+    "caloriesConsumed": 3188,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-14",
+    "caloriesConsumed": 2280,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-15",
+    "caloriesConsumed": 2482,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-16",
+    "caloriesConsumed": 2471,
+    "exerciseTime": 32,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-17",
+    "caloriesConsumed": 2076,
+    "exerciseTime": 31,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-18",
+    "caloriesConsumed": 2501,
+    "exerciseTime": 55,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-19",
+    "caloriesConsumed": 2132,
+    "exerciseTime": 53,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-20",
+    "caloriesConsumed": 2538,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-21",
+    "caloriesConsumed": 2620,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-22",
+    "caloriesConsumed": 2122,
+    "exerciseTime": 25,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-23",
+    "caloriesConsumed": 2047,
+    "exerciseTime": 42,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-24",
+    "caloriesConsumed": 2446,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-25",
+    "caloriesConsumed": 2444,
+    "exerciseTime": 24,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-26",
+    "caloriesConsumed": 2067,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-27",
+    "caloriesConsumed": 3003,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-28",
+    "caloriesConsumed": 2762,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-29",
+    "caloriesConsumed": 2912,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 85,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-11-30",
+    "caloriesConsumed": 2404,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-01",
+    "caloriesConsumed": 2970,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-02",
+    "caloriesConsumed": 2375,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-03",
+    "caloriesConsumed": 2452,
+    "exerciseTime": 29,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-04",
+    "caloriesConsumed": 2050,
+    "exerciseTime": 35,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-05",
+    "caloriesConsumed": 2039,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-06",
+    "caloriesConsumed": 2470,
+    "exerciseTime": 46,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-07",
+    "caloriesConsumed": 2074,
+    "exerciseTime": 26,
+    "didExercise": true,
+    "weight": 68,
+    "riskScore": 46,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-08",
+    "caloriesConsumed": 2744,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68.1,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-09",
+    "caloriesConsumed": 2112,
+    "exerciseTime": 59,
+    "didExercise": true,
+    "weight": 68.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-10",
+    "caloriesConsumed": 2349,
+    "exerciseTime": 54,
+    "didExercise": true,
+    "weight": 68.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-11",
+    "caloriesConsumed": 2076,
+    "exerciseTime": 26,
+    "didExercise": true,
+    "weight": 68.1,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-12",
+    "caloriesConsumed": 2493,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 68.1,
+    "riskScore": 50,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-13",
+    "caloriesConsumed": 3177,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68.2,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-14",
+    "caloriesConsumed": 2622,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68.3,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-15",
+    "caloriesConsumed": 2161,
+    "exerciseTime": 49,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 10,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-16",
+    "caloriesConsumed": 2086,
+    "exerciseTime": 28,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-17",
+    "caloriesConsumed": 2579,
+    "exerciseTime": 58,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-18",
+    "caloriesConsumed": 2587,
+    "exerciseTime": 30,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-19",
+    "caloriesConsumed": 2303,
+    "exerciseTime": 56,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 13,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-20",
+    "caloriesConsumed": 2094,
+    "exerciseTime": 51,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-21",
+    "caloriesConsumed": 2278,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-22",
+    "caloriesConsumed": 2019,
+    "exerciseTime": 27,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 45,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 8,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-23",
+    "caloriesConsumed": 2543,
+    "exerciseTime": 37,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.383Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-24",
+    "caloriesConsumed": 2030,
+    "exerciseTime": 39,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 12,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.383Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-25",
+    "caloriesConsumed": 2048,
+    "exerciseTime": 36,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 14,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-26",
+    "caloriesConsumed": 2486,
+    "exerciseTime": 60,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-27",
+    "caloriesConsumed": 2372,
+    "exerciseTime": 25,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 20,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 3,
+        "reps": 11,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-28",
+    "caloriesConsumed": 2557,
+    "exerciseTime": 33,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 48,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 2,
+        "reps": 9,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-29",
+    "caloriesConsumed": 2814,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68.3,
+    "riskScore": 70,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-30",
+    "caloriesConsumed": 2327,
+    "exerciseTime": 38,
+    "didExercise": true,
+    "weight": 68.3,
+    "riskScore": 45,
+    "exercises": [
+      {
+        "name": "Push Up",
+        "sets": 4,
+        "reps": 15,
+        "weight": 0
+      }
+    ],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  },
+  {
+    "userId": { "$oid": "69ca600e08e2ee5f423b8a07" },
+    "date": "2026-12-31",
+    "caloriesConsumed": 2712,
+    "exerciseTime": 0,
+    "didExercise": false,
+    "weight": 68.4,
+    "riskScore": 50,
+    "exercises": [],
+    "createdAt": "2026-03-30T11:46:51.384Z",
+    "updatedAt": "2026-03-30T11:46:51.384Z"
+  }
+]
