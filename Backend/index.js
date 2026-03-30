@@ -8,6 +8,8 @@ import aiRouter from './routes/ai.route.js'
 import foodRouter from './routes/food.route.js'
 import logRouter from './routes/log.route.js'
 
+import { authLimiter, apiLimiter, heavyLimiter } from './middleware/rateLimiter.js'
+
 const app = express()
 dotenv.config()
 app.use(cors({
@@ -44,6 +46,12 @@ app.use('/user', userRouter)
 app.use('/ai', aiRouter)
 app.use('/food', foodRouter)
 app.use('/log', logRouter)
+
+app.use("/user", authLimiter);
+app.use("/ai", heavyLimiter);
+app.use("/food", apiLimiter);
+app.use("/log", heavyLimiter);
+app.use("/", apiLimiter);
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`)
