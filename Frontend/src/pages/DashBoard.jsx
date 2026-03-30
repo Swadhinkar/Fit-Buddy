@@ -28,7 +28,7 @@ import {
   formatDateKey,
 } from "../utils/workoutAnalytics";
 
-const HISTORY_RANGE_DAYS = 180;
+const HISTORY_RANGE_DAYS = 365; // extend to 1 year for more comprehensive heatmap and risk analysis
 const HEATMAP_DAYS = 365;
 
 const createEmptyExercise = () => ({
