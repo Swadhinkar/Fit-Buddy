@@ -2,9 +2,9 @@ import bcrypt from 'bcryptjs'
 import jwt from 'jsonwebtoken'
 import User from '../model/user.model.js'
 import { generateToken, generateRefreshToken } from '../utils/token.js'
+import mongoose from 'mongoose'
 
 export const registerUser = async (req, res) => {
-    // console.log("REQ BODY:", req.body);
     if (!req.body) {
         return res.status(400).send({ message: "Content body missing" })
     }
@@ -12,6 +12,7 @@ export const registerUser = async (req, res) => {
     const { username, email, password, age, gender } = req.body
 
     try {
+        // Optimization A: Ensure your Mongoose User model has { unique: true, index: true } on email
         const user = await User.findOne({ email })
 
         if (user) {
@@ -19,21 +20,27 @@ export const registerUser = async (req, res) => {
         }
 
         const HashedPassword = await bcrypt.hash(password, 10)
+        
+        // Optimization B: Pre-generate the object ID locally in Node.js
+        const newUserId = new mongoose.Types.ObjectId();
+        
+        // Generate tokens instantly using the pre-allocated ID
+        const accessToken = generateToken(newUserId)
+        const refreshToken = generateRefreshToken(newUserId)
+
+        // Optimization C: Create the document with the token included from day one
         const newUser = new User({
+            _id: newUserId, // Pass the generated ID
             name: username,
             email: email,
             password: HashedPassword,
             age: age,
-            gender: gender
+            gender: gender,
+            refreshToken: refreshToken // Token added here!
         })
 
-        await newUser.save()
-        
-        const accessToken = generateToken(newUser._id)
-        const refreshToken = generateRefreshToken(newUser._id)
-        
-        newUser.refreshToken = refreshToken
-        await newUser.save()
+        // ONLY ONE WRITE OPERATION NEEDED NOW 🎉
+        await newUser.save() 
         
         const cookieOptions = {
             httpOnly: true,
@@ -42,15 +49,17 @@ export const registerUser = async (req, res) => {
             path: '/'
         };
 
-        res.cookie("accessToken", accessToken, cookieOptions)
-        .cookie("refreshToken", refreshToken, cookieOptions)
-        
+        return res.cookie("accessToken", accessToken, cookieOptions)
+            .cookie("refreshToken", refreshToken, cookieOptions)
+            .status(201)
+            .send({ message: "User registered successfully" })
 
-        return res.status(201).send({ message: "User registered successfully" })
     } catch (err) {
+        console.error("Signup Error:", err); // Log your errors to see what fails
         return res.status(500).send({ message: "Internal Server Error when registering user" })
     }
 }
+
 
 export const loginUser = async (req, res) => {
     if (!req.body)

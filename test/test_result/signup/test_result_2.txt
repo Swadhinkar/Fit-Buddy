@@ -1,0 +1,63 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+
+     execution: local
+        script: fitbuddy_test.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 100 max VUs, 3m30s max duration (incl. graceful stop):
+              * default: Up to 100 looping VUs for 3m0s over 4 stages (gracefulRampDown: 30s, gracefulStop: 30s)
+
+
+running (0m01.0s), 001/100 VUs, 0 complete and 0 interrupted iterations
+default   [   1% ] 001/100 VUs  0m01.0s/3m00.0s
+
+running (0m02.0s), 002/100 VUs, 1 complete and 0 interrupted iterations
+default   [   1% ] 002/100 VUs  0m02.0s/3m00.0s
+
+running (0m03.0s), 002/100 VUs, 3 complete and 0 interrupted iterations
+default   [   2% ] 002/100 VUs  0m03.0s/3m00.0s
+
+running (0m04.0s), 003/100 VUs, 4 complete and 0 interrupted iterations
+default   [   2% ] 003/100 VUs  0m04.0s/3m00.0s
+
+running (0m05.0s), 004/100 VUs, 7 complete and 0 interrupted iterations
+default   [   3% ] 004/100 VUs  0m05.0s/3m00.0s
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 24     4.338734/s
+    checks_succeeded...: 45.83% 11 out of 24
+    checks_failed......: 54.16% 13 out of 24
+
+    ✗ status is 200
+      ↳  0% — ✓ 0 / ✗ 12
+    ✗ latency under 250ms
+      ↳  91% — ✓ 11 / ✗ 1
+
+    HTTP
+    http_req_duration....: avg=212.83ms min=195.44ms med=204.32ms max=319.86ms p(90)=210.51ms p(95)=259.88ms
+    http_req_failed......: 100.00% 12 out of 12
+    http_reqs............: 12      2.169367/s
+
+    EXECUTION
+    iteration_duration...: avg=1.22s    min=1.19s    med=1.2s     max=1.33s    p(90)=1.25s    p(95)=1.29s   
+    iterations...........: 8       1.446245/s
+    vus..................: 4       min=1        max=4  
+    vus_max..............: 100     min=100      max=100
+
+    NETWORK
+    data_received........: 5.0 kB  905 B/s
+    data_sent............: 3.0 kB  549 B/s
+
+
+
+
+running (0m05.6s), 000/100 VUs, 8 complete and 4 interrupted iterations
+default ✗ [   3% ] 004/100 VUs  0m05.5s/3m00.0s

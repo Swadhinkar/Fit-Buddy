@@ -1,0 +1,93 @@
+
+         /\      Grafana   /‾‾/  
+    /\  /  \     |\  __   /  /   
+   /  \/    \    | |/ /  /   ‾‾\ 
+  /          \   |   (  |  (‾)  |
+ / __________ \  |_|\_\  \_____/ 
+
+
+     execution: local
+        script: fitbuddy_test.js
+        output: -
+
+     scenarios: (100.00%) 1 scenario, 100 max VUs, 3m30s max duration (incl. graceful stop):
+              * default: Up to 100 looping VUs for 3m0s over 4 stages (gracefulRampDown: 30s, gracefulStop: 30s)
+
+
+running (0m01.0s), 001/100 VUs, 0 complete and 0 interrupted iterations
+default   [   1% ] 001/100 VUs  0m01.0s/3m00.0s
+
+running (0m02.0s), 002/100 VUs, 1 complete and 0 interrupted iterations
+default   [   1% ] 002/100 VUs  0m02.0s/3m00.0s
+
+running (0m03.0s), 002/100 VUs, 3 complete and 0 interrupted iterations
+default   [   2% ] 002/100 VUs  0m03.0s/3m00.0s
+
+running (0m04.0s), 003/100 VUs, 4 complete and 0 interrupted iterations
+default   [   2% ] 003/100 VUs  0m04.0s/3m00.0s
+
+running (0m05.0s), 004/100 VUs, 7 complete and 0 interrupted iterations
+default   [   3% ] 004/100 VUs  0m05.0s/3m00.0s
+
+running (0m06.0s), 004/100 VUs, 10 complete and 0 interrupted iterations
+default   [   3% ] 004/100 VUs  0m06.0s/3m00.0s
+
+running (0m07.0s), 005/100 VUs, 13 complete and 0 interrupted iterations
+default   [   4% ] 005/100 VUs  0m07.0s/3m00.0s
+
+running (0m08.0s), 006/100 VUs, 18 complete and 0 interrupted iterations
+default   [   4% ] 006/100 VUs  0m08.0s/3m00.0s
+
+running (0m09.0s), 006/100 VUs, 21 complete and 0 interrupted iterations
+default   [   5% ] 006/100 VUs  0m09.0s/3m00.0s
+
+running (0m10.0s), 007/100 VUs, 26 complete and 0 interrupted iterations
+default   [   6% ] 007/100 VUs  0m10.0s/3m00.0s
+
+running (0m11.0s), 007/100 VUs, 30 complete and 0 interrupted iterations
+default   [   6% ] 007/100 VUs  0m11.0s/3m00.0s
+
+running (0m12.0s), 008/100 VUs, 35 complete and 0 interrupted iterations
+default   [   7% ] 008/100 VUs  0m12.0s/3m00.0s
+
+running (0m13.0s), 009/100 VUs, 39 complete and 0 interrupted iterations
+default   [   7% ] 009/100 VUs  0m13.0s/3m00.0s
+
+running (0m14.0s), 009/100 VUs, 44 complete and 0 interrupted iterations
+default   [   8% ] 009/100 VUs  0m14.0s/3m00.0s
+
+running (0m15.0s), 010/100 VUs, 49 complete and 0 interrupted iterations
+default   [   8% ] 010/100 VUs  0m15.0s/3m00.0s
+
+
+  █ TOTAL RESULTS 
+
+    checks_total.......: 106    6.956561/s
+    checks_succeeded...: 19.81% 21 out of 106
+    checks_failed......: 80.18% 85 out of 106
+
+    ✗ status is 200
+      ↳  0% — ✓ 0 / ✗ 53
+    ✗ latency under 250ms
+      ↳  39% — ✓ 21 / ✗ 32
+
+    HTTP
+    http_req_duration....: avg=500.47ms min=115.98ms med=433.62ms max=1.16s p(90)=980.76ms p(95)=1.06s
+    http_req_failed......: 100.00% 53 out of 53
+    http_reqs............: 53      3.47828/s
+
+    EXECUTION
+    iteration_duration...: avg=1.46s    min=1.11s    med=1.39s    max=2.16s p(90)=1.88s    p(95)=1.96s
+    iterations...........: 49      3.215769/s
+    vus..................: 10      min=1        max=10 
+    vus_max..............: 100     min=100      max=100
+
+    NETWORK
+    data_received........: 22 kB   1.5 kB/s
+    data_sent............: 15 kB   979 B/s
+
+
+
+
+running (0m15.3s), 000/100 VUs, 49 complete and 10 interrupted iterations
+default ✗ [   8% ] 009/100 VUs  0m15.2s/3m00.0s
